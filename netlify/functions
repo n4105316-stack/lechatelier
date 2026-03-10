@@ -1,3 +1,0 @@
-fetch("/api/login")
-fetch("/api/students")
-fetch("/api/update-progress")
